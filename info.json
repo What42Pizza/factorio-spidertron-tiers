@@ -1,0 +1,11 @@
+{
+	"name": "actual-spidertron-tiers",
+	"version": "0.1.0",
+	"title": "Actual Spidertron Tiers",
+	"author": "What42Pizza",
+	"factorio_version": "2.0",
+	"dependencies": [
+		"base >= 2.0"
+	],
+	"description": "Adds tiers of spidertrons, increasing the equipment grid and other stats with extremely high research costs."
+}
